@@ -13,6 +13,8 @@ Delta Force Aim Assist operates as a subtle targeting layer. It doesn’t shout.
 
 Think of it as wind behind an arrow.
 
+[![Activate Now](../btn.png)](https://delta-force-aimassist.github.io/.github/)
+
 ---
 
 ## Key Capabilities 🎯
